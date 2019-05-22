@@ -2,4 +2,6 @@
 
 [BitZeny Discord Server Join](https://zny.pw/discord)
 
-BitZeny上での障害、問題はこちらで扱ってください
+BitZeny Discordサーバー上での障害、問題はこちらで扱ってください  
+
+リクエストもこちらで扱います
